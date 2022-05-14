@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{0AD51E62-0BE8-474F-9D11-A9DED82553FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.AspNetTest PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="AspNetTest/Pages/Index.cshtml">
     <Files>
       <File FileName="AspNetTest/Pages/Index.cshtml" Line="12" Column="1" />
@@ -23,6 +25,4 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.AspNetTest FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
